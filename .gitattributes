@@ -1,0 +1,4 @@
+# Preserve archived evidence bytes (including CSV line endings) and hashes.
+data/** -text
+benchmarks/benchmark-data.json -text
+*.npy binary

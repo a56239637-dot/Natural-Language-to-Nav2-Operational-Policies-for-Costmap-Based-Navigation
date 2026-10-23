@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+build/
+install/
+log/
+.pytest_cache/
+.env
+.env.*
+*.bag
+*.db3
